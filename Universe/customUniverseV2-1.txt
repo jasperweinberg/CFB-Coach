@@ -9,6 +9,10 @@ Mt West
 Pac-12
 SEC
 Sun Belt
+Southland
+SWAC
+Big Sky
+CAA
 [END_CONFERENCES]
 [START_TEAMS]
 Clemson, CLEM, ACC, 85, WAKE, 3
@@ -141,6 +145,58 @@ Georgia Southern, GASO, Sun Belt, 30, MTSU, 4
 Old Dominion, ODOM, Sun Belt, 35, APP, 3
 UT San Antonio, UTSA, Sun Belt, 43, UTEP, 1
 [END_CONF]
+Abiliene Christian, AC, Southland, 26, CAU, 1
+Central Arkansas, CAU, Southland, 50, AC, 1
+Houstan Baptist, HBU, Southland, 10, IWU, 1
+Incarnate Word, IWU, Southland, 10, HBU, 1
+Lamar, LMRU, Southland, 13, MCNU, 1
+McNeese, MCNU, Southland, 17, LMRU, 1
+Northwestern St, NWSU, Southland, 15, SHSU, 1
+Sam Houstan St, SHSU, Southland, 16, NWSU, 1
+Southeastern Louisiana, SLU, Southland, 10, SFA, 1
+Stephen F. Austin, SFA, Southland, 30, SLU, 1
+Western Carolina, WCU, Southland, 25, WFFD, 1
+Wofford, WFFD, Southland, 20, WCU, 1
+[END_CONF]
+Alabama A&M, AAM, SWAC, 35, UAS, 2
+Alabama St, UAS, SWAC, 40, AAM, 2
+Alcorn St, ASU, SWAC, 14, APB, 1
+Arkansas-Pine Bluff, APB, SWAC, 20, ASU, 2
+Grambling, GU, SWAC, 25, JSU, 2
+Jackson St, JSU, SWAC, 30, GU, 2
+Mississippi Valley St, MVSU, SWAC, 35, PVU, 2
+Prairie View, PVU, SWAC, 20, MVSU, 2
+Southern, SU, SWAC, 27, UTS, 2
+Texas Southern, UTS, SWAC, 42, SU, 3
+Villanova, VU, SWAC, 40, ZAGA, 3
+Gonzaga, ZAGA, SWAC, 45, VU, 2
+[END_CONF]
+Cal Poly, CP, Big Sky, 30, EWU, 1
+Eastern Washington, EWU, Big Sky, 30, EWU, 2
+Idaho State, USI, Big Sky, 40, NDU, 3
+Montana, MU, Big Sky, 40, UMS, 3
+Montana St, UMS, Big Sky, MU, 2
+North Dakota, NDU, Big Sky, 20, USI, 1
+Northern Arizona, NAU, Big Sky, 20, NCU, 1
+Northern Colorado, NCU, Big Sky, 40, NAU, 2
+Portland St, UPS, Big Sky, 30, SSU, 2
+Sacramento St, SSU, Big Sky, 25, UPS, 1
+Weber St, UWS, Big Sky, 35, UCD, 2
+UC Davis, UCD, Big Sky, 35, UWS, 2
+[END_CONF]
+Albany, AU, CAA, 30, UD, 2
+Delaware, UD, CAA, 30, AU, 2
+Elon, ELON, CAA, 30, JMU, 2
+James Madison, JMU, CAA, 20, ELON, 1
+Maine, UM, CAA, 31, NHU, 2
+New Hampshire, NHU, CAA, 36, UM, 2
+Rhode Island, RIU, CAA, 35, RU, 2
+Richmond, RU, CAA, 30, RIU, 2
+Stony Brook, SBU, CAA, 30, TU, 2
+Towson, TU, CAA, 30, SBU, 2
+Butler, BU, CAA, 40, UMAS, 2
+UMASS, UMAS, CAA, 50, BU, 3
+[END_CONF]
 [END_TEAMS]
-Rose Bowl, Orange Bowl, Sugar Bowl, Fiesta Bowl, Peach Bowl, Cotton Bowl, Citrus Bowl, Gator Bowl, Cactus Bowl, Alamo Bowl, Holiday Bowl, Sun Bowl, Liberty Bowl, Independence Bowl, Vegas Bowl, Military Bowl, Aloha Bowl, Humanitarian Bowl
+Rose Bowl, Orange Bowl, Sugar Bowl, Fiesta Bowl, Peach Bowl, Cotton Bowl, Citrus Bowl, Gator Bowl, Cactus Bowl, Alamo Bowl, Outback Bowl, Texas Bowl, Arizona Bowl, Pinstripe Bowl, Holiday Bowl, Sun Bowl, Liberty Bowl, Independence Bowl, Vegas Bowl, Military Bowl, Aloha Bowl, Dollar General Bowl, Humanitarian Bowl, Hawai'i Bowl, Taxslayer Bowl, Belk Bowl, Camping World Bowl, Foster Farms Bowl, Quick Lane Bowl, Potato Bowl, Bahamas Bowl, Frisco Bowl, Boca Bowl, Camelia Bowl, New Mexico Bowl, Cure Bowl, Patriot Bowl, Apple Bowl, Lilac Bowl, Salty Bowl
 [END_BOWL_NAMES]
